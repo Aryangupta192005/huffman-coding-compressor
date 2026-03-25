@@ -22,3 +22,5 @@ This project implements the Huffman Coding algorithm for efficient text compress
 - Learned greedy algorithm
 - Applied tree data structures
 - Understood compression techniques
+## 📷 Output
+![Output](huffman%20output.png)
