@@ -1,26 +1,36 @@
 # Huffman Coding Compressor
 
-## Description
-This project implements the Huffman Coding algorithm for efficient text compression.
+A compression system implemented using Static and Dynamic Huffman Coding techniques to reduce text file size efficiently.
 
 ## Features
-- Builds Huffman Tree using priority queue
-- Generates binary codes for characters
-- Encodes input text
+- Static Huffman Coding
+- Dynamic Huffman Coding
+- Text Compression and Decompression
+- Compression Ratio Calculation
+- Efficiency and Redundancy Analysis
 
-## Tech Used
-- Python
-- Heap (Priority Queue)
-- Trees
+## Technologies Used
+- C++
+- Data Structures and Algorithms
+- Trees and Priority Queues
+
+## Objective
+To implement Huffman Coding for efficient text compression and compare the performance of static and dynamic approaches.
+
+## Concepts Used
+- Greedy Algorithms
+- Binary Trees
+- Priority Queue
+- Encoding and Decoding
+- Data Compression
+
+## Performance Metrics
+- Compression Ratio
+- Redundancy
+- Efficiency Analysis
 
 ## How to Run
-1. Run: python main.py
-2. Enter text
-3. View encoded output
-
-## Learning Outcome
-- Learned greedy algorithm
-- Applied tree data structures
-- Understood compression techniques
-## 📷 Output
-![Output](huffman%20output.png)
+1. Clone the repository
+2. Compile the C++ file
+3. Run the executable
+4. Input text file for compression
